@@ -1,5 +1,5 @@
 # Node.js
-![node](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
+![node](https://makeawebsitehub.com/wp-content/uploads/2016/01/nodejs-logo.png)
 
 _____________________________________
 
@@ -14,7 +14,7 @@ It's written in JavaScript and can be run within the Node.js runtime on any plat
 
 ## Heroku
 
-![h](https://developer.okta.com/assets-jekyll/blog/spring-boot-heroku/spring-boot-heroku-a3ce2819d1a153aa6857a47c5efcb13398e8e468e09a734fb46da0ac0e815b28.png)
+![h](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png)
 
 
 a cloud platform as a service

@@ -18,4 +18,5 @@
 |   DAY 4    | class-04 |[ read 04](./class-04.md)| 
 |   DAY 5    | class-05 |[ read 05](./class-05.md)| 
 |   DAY 6    | class-06 |[ read 06](./class-06.md)| 
-|   DAY 7    | class-07 |[ read 07](./class-07.md)| 
+|   DAY 7    | class-07 |[ read 07](./class-07.md)|
+|   DAY 8    | class-08 |[ read 08](./class-08.md)|  

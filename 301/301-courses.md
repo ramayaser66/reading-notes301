@@ -22,5 +22,6 @@
 |   DAY 8    | class-08 |[ read 08](./class-08.md)| 
 |   DAY 9    | class-09 |[ read 09](./class-09.md)|
 |   DAY 10    | class-10 |[ read 10](./class-10.md)|
-|   DAY 12    | class-12 |[ read 12](./class-12.md)
+|   DAY 12    | class-12 |[ read 12](./class-12.md)|
+|   DAY 13    | class-13 |[ read 13](./class-13.md)|
 

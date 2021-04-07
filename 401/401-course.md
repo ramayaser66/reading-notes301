@@ -14,4 +14,5 @@
 |------------|----------|:-------------:|
 |   Day 1    | class-01 |[ read 01 ](./class-01.md)| 
 |   Day 1    | class-02 |[ read 02 ](./class-02.md)|
-|   Day 1    | class-02 |[ read 03 ](./class-03.md)|  
+|   Day 1    | class-03 |[ read 03 ](./class-03.md)|  
+|   Day 1    | class-04 |[ read 04 ](./class-04.md)|

@@ -20,3 +20,4 @@
 |   Day 6    | class-06 |[ read 06 ](./class-06.md)|
 |   Day 7    | class-07 |[ read 07 ](./class-07.md)|
 |   Day 9    | class-09 |[ read 09 ](./class-09.md)|
+|   Day 10   | class-10 |[ read 10 ](./class-10.md)|

@@ -9,7 +9,7 @@ type of relationships:
 
   using the` @OneToOne` annotation. 
 
-  NOTE: The `@RestResource` annotation is optional and can be used to customize the endpoint.
+  NOTE: The `@RestResource` annotation is optional and can be used to customize the endpoint
 
  - ## One-to-Many
 
@@ -55,6 +55,7 @@ the association between the two entities is tracked by a cross-reference table. 
   4. add the `@WebAppConfiguration`, which will load the web application context, you can pass the value attribute or by default, it looks for the root web application at path src/main/webapp. 
 
 - WebApplicationContext Object
+
 
 it provides a web application configuration. It loads all the application beans and controllers into the context
 

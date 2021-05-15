@@ -29,3 +29,4 @@
 |   Day 17   | class-17 |[ read 17 ](./class-17.md)|
 |   Day 18   | class-18 |[ read 18 ](./class-18.md)|
 |   Day 19   | class-19 |[ read 19 ](./class-19.md)|
+|   Day 26   | class-26 |[ read 26 ](./class-26.md)|

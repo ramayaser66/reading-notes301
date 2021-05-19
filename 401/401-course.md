@@ -32,3 +32,4 @@
 |   Day 26   | class-26 |[ read 26 ](./class-26.md)|
 |   Day 27   | class-27 |[ read 27 ](./class-27.md)|
 |   Day 28   | class-28 |[ read 28 ](./class-28.md)|
+|   Day 29   | class-29 |[ read 29 ](./class-29.md)|

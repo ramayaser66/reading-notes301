@@ -38,3 +38,4 @@
 |   Day 32   | class-32 |[ read 32 ](./class-32.md)|
 |   Day 33   | class-33 |[ read 33 ](./class-33.md)|
 |   Day 34   | class-34 |[ read 34 ](./class-34.md)|
+|   Day 35   | class-35 |[ read 35 ](./class-35.md)|

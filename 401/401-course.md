@@ -43,3 +43,5 @@
 |   Day 37   | class-37 |[ read 37 ](./class-37.md)|
 |   Day 38   | class-38 |[ read 38 ](./class-38.md)|
 |   Day 39   | class-39 |[ read 39 ](./class-39.md)|
+|   Day 41   | class-41 |[ read 41 ](./class-41.md)|
+|   Day 42   | class-42 |[ read 42 ](./class-42.md)|
